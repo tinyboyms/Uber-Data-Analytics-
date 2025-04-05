@@ -15,11 +15,10 @@ Interactive dashboard analyzing Uber trip patterns using Power BI and Python.
 - Pandas
 - SQL
 
+## Dashboard Demo
+[View Dashboard Demo Video](./assets/dashboard_demo.mp4)
+
 ## Dashboard Screenshots
 [Add your screenshots here]
 
-## Setup Instructions
-1. Clone the repository
-2. Open the .pbix file in Power BI Desktop
-3. Connect to your data source
-4. Refresh the visualizations
+
