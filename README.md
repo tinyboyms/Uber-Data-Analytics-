@@ -16,12 +16,14 @@ Interactive dashboard analyzing Uber trip patterns using Power BI and Python.
 - SQL
 
 ## Data Modeling Diagram
+- Used Star Schema For Modeling
 <img src="assets//Blank diagram.png">
 
 
 
 ## Dashboard Demo
 https://github.com/user-attachments/assets/3490ceab-70b4-491b-860d-32cfcee6bd68
+
 
 
 
