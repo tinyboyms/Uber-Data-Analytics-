@@ -21,7 +21,8 @@ Interactive dashboard analyzing Uber trip patterns using Power BI and Python.
 
 
 ## Dashboard Demo
-<video src='assets/dashboard_demo.mp4' width=180/>
+[View Dashboard Demo Video](./assets/dashboard_demo.mp4)
+
 
 
 
